@@ -1,0 +1,6 @@
+Create a simple backend server and schema where a user can manage his store inventory with product name, price and quantity etc.
+You are requested to create API endpoints for the following:
+To create a product
+To view all products in inventory
+To edit a product
+To delete a product
